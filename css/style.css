@@ -1,3 +1,9 @@
+/* Custom changes */
+.personal-statement{
+    padding: 20px;
+    background-color: #808080b5;
+    border-radius: 5px;
+}
 
 /*GENERAL STYLE*/
 
@@ -420,10 +426,11 @@ a:active {
     padding: 20px 0;
     margin-bottom: 30px;
     background: rgba(144, 144, 144, 0.78);
+    border-radius: 3px;
 }
 
 .skill-item i {
-    color: #2196f3;
+    color: #75bef8;
 }
 
 .skill-item h2 {
